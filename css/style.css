@@ -15,7 +15,34 @@ div {
 	margin: 0 auto;
 }
 
+.top-navigation .links > .active a {
+    color: #4c5058;
+    font-weight: 500;
+}
+
+.top-navigation .content {
+	padding: 0px 15px;
+
+}
+
 .logo {
-	margin-left: 14px;
     margin-top: 10px;
+}
+
+.top-navigation .links {
+	float: right;
+	margin-top:  25px;
+}
+
+.top-navigation .links li {
+	display: inline-block;
+	margin-left: 25px;
+}
+
+.top-navigation .links a {
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #838994;
+	letter-spacing: 0.03em;
 }
