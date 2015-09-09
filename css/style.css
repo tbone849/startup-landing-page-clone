@@ -93,6 +93,10 @@ section .content p {
     font-size: 1em;
 }
 
+.big-button:hover {
+	background-color: #CC5200;
+}
+
 .benefits {
 	background-color: #ffffff;
 }
@@ -112,3 +116,4 @@ section .content p {
 .benefits .content h1 {
 	font-weight: normal;
 }
+
