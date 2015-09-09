@@ -51,21 +51,25 @@ div {
 	color: #333333;
 }
 
-section {
+.introduction {
 	background-image: url("../images/background.jpeg");
-	height: 500px;
+	height: 45.9rem;
+	background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: auto;
 }
 
-section .content {
+.introduction .content {
 	color: #ffffff;
 	text-align: center;
 	width: 60rem;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 3em;
+	margin-top: 15rem;
 }
 
-section .content h1 {
+.introduction .content h1 {
 	margin-bottom: 0px;
 	font-size: 3em;
 	font-weight: normal;
