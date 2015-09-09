@@ -99,6 +99,7 @@ section .content p {
 
 .benefits {
 	background-color: #ffffff;
+	overflow: auto;
 }
 
 .benefits .icons {
@@ -110,7 +111,7 @@ section .content p {
 
 .benefits .content {
 	text-align: center;
-	margin: 0 auto;
+	margin: 3em auto;
 }
 
 .benefits .content h1 {
