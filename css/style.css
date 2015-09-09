@@ -94,13 +94,18 @@ section .content p {
 	background-color: #ffffff;
 }
 
-.icons {
-	width: 300px;
+.benefits .icons {
+	width: 20%;
 	text-align: center;
 	margin: 0 auto;
+	display: inline-block;
 }
 
 .benefits .content {
 	text-align: center;
 	margin: 0 auto;
+}
+
+.benefits .content h1 {
+	font-weight: normal;
 }
