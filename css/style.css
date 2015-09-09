@@ -118,3 +118,14 @@ section .content p {
 	font-weight: normal;
 }
 
+footer {
+	background-color: #ffffff;
+}
+
+footer .content {
+	text-align: center;
+	width: 60rem;
+	margin: 0 auto;
+}
+
+
