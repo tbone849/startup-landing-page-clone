@@ -89,3 +89,18 @@ section .content p {
     background-color: #FF6600;
     font-size: 1em;
 }
+
+.benefits {
+	background-color: #ffffff;
+}
+
+.icons {
+	width: 300px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.benefits .content {
+	text-align: center;
+	margin: 0 auto;
+}
