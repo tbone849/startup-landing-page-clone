@@ -1,10 +1,7 @@
 body {
-    background-color: LightGray;
     font-family: 'Roboto', sans-serif;
 }
-div {
-    border: 1px solid Chocolate;
-}
+
 
 .top-navigation {
 	background-color: #fff;
@@ -111,7 +108,7 @@ section .content p {
 
 .benefits .content {
 	text-align: center;
-	margin: 3em auto;
+	margin: 5em auto;
 }
 
 .benefits .content h1 {
@@ -125,15 +122,31 @@ footer {
 footer .content {
 	text-align: center;
 	width: 60rem;
-	margin: 0 auto;
+	margin: 3em auto;
 }
 
 footer .social {
-	width: 25px;
-	height: 25px;
+	width: 40px;
 	display: inline-block;
 }
 
 .copyright {
 	color: #C1C1C1;
+}
+
+footer i {
+	width: 25px;
+	height: 25px;
+	border: 1px solid;
+	border-color: #C1C1C1;
+	border-radius: 50%;
+	padding: 8px 5px 2px 5px;
+}
+
+#twitter {
+	color: #3399FF;
+}
+
+#facebook, #instagram {
+	color: #0066CC;
 }
