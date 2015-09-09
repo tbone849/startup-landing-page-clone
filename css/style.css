@@ -128,4 +128,8 @@ footer .content {
 	margin: 0 auto;
 }
 
-
+footer .social {
+	width: 25px;
+	height: 25px;
+	display: inline-block;
+}
